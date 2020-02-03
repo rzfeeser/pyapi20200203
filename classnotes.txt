@@ -1,0 +1,30 @@
+- course: API & API Design with Python
+  time: 8:30 to 4:30
+  lunch: noon - 1pm
+  days: Mon - Fri
+  course github: https://github.com/rzfeeser/pyapi20200203
+  
+  class links:
+    - https://roy.gbiv.com/pubs/dissertation/rest_arch_style.htm
+    - https://stackoverflow.com/questions/419163/what-does-if-name-main-do
+    - https://en.wikipedia.org/wiki/Chmod
+    - https://jsonlint.com/
+    - https://learngitbranching.js.org/
+    
+  
+  outline:
+    monday:
+      - sign in (alta3)
+      - sign in (GEMS / Verizon)
+      - hand out books, etc.
+      - review outline
+      - lecture: intro to APIs
+      - lecture: HTTPS & JSON
+      - lab demo / labs to do
+         - Lab 04 - Lists pg 13
+         - Lab 05 - Dictionaries pg 17
+         - Lab 06 - Python Data to JSON pg 22
+         - Lab 08 - List and Dict Modeling pg 29
+         - Lab 09 - RESTful Open APIs (welcome to start this lab) pg 35
+    tuesday:
+      - 
